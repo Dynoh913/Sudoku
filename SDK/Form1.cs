@@ -84,7 +84,7 @@ namespace SDK
                     }
                     else
                     {
-                        b[i][j].BackColor = Color.White;
+                        b[i][j].BackColor = Color.WhiteSmoke;
                     }
                     b[i][j].Text = " ";
                     b[i][j].ForeColor = Color.FromName("red");
