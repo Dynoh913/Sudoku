@@ -50,7 +50,7 @@
             // 
             // Solve
             // 
-            this.Solve.Location = new System.Drawing.Point(155, 617);
+            this.Solve.Location = new System.Drawing.Point(155, 623);
             this.Solve.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Solve.Name = "Solve";
             this.Solve.Size = new System.Drawing.Size(117, 48);
@@ -61,7 +61,7 @@
             // 
             // buttonImport
             // 
-            this.buttonImport.Location = new System.Drawing.Point(280, 617);
+            this.buttonImport.Location = new System.Drawing.Point(280, 623);
             this.buttonImport.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonImport.Name = "buttonImport";
             this.buttonImport.Size = new System.Drawing.Size(117, 48);
@@ -72,7 +72,7 @@
             // 
             // buttonNew
             // 
-            this.buttonNew.Location = new System.Drawing.Point(16, 617);
+            this.buttonNew.Location = new System.Drawing.Point(16, 623);
             this.buttonNew.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonNew.Name = "buttonNew";
             this.buttonNew.Size = new System.Drawing.Size(131, 48);
@@ -83,7 +83,7 @@
             // 
             // buttonExport
             // 
-            this.buttonExport.Location = new System.Drawing.Point(405, 617);
+            this.buttonExport.Location = new System.Drawing.Point(405, 623);
             this.buttonExport.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonExport.Name = "buttonExport";
             this.buttonExport.Size = new System.Drawing.Size(121, 48);
@@ -104,7 +104,7 @@
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(534, 617);
+            this.button10.Location = new System.Drawing.Point(534, 623);
             this.button10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(131, 48);
